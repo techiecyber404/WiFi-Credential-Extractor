@@ -1,7 +1,5 @@
-Here's your **fully customized README.md** with all personal details integrated:
 
-```markdown
-# 🔐 WiFi Credential Extractor
+# 🔐 **WI-FI CREDENTIAL EXTRACTOR**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-v5.1+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
