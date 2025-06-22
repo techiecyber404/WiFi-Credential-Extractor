@@ -35,5 +35,5 @@ powershell.exe -ExecutionPolicy Bypass -File .\wifi.ps1
 ```
 
 ## 📜 License
-MIT © [YourName](https://github.com/YOURUSERNAME)  
+MIT © Venkatesh.K(https://github.com/YOURUSERNAME)  
 *Maintained by techiecyber404*
