@@ -17,7 +17,7 @@ irm https://raw.githubusercontent.com/techiecyber404/WiFi-Credential-Extractor/m
 ## 🚀 Basic Usage
 ```powershell
 # Run with default options (admin PowerShell required)
-.\WiFiExtractor.ps1 -LocalOnly
+.\WiFiExtractor.ps1 
 ```
 
 ## ⚙️ Parameters
