@@ -1,5 +1,5 @@
 
-# 🔐 **WI-FI CREDENTIAL EXTRACTOR**
+# # 🔐 **Wi-Fi Credential Extractor** — PowerShell Tool for Windows
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-v5.1+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
